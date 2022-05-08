@@ -2,8 +2,10 @@
 Class work Upload.
 
 David Newman
-• This repository exists for my Graph Theory college module
-• key topics of which are the Heap Sort and Graph Isomorphism Problem and general graph theory.
+
+This repository exists for my Graph Theory college module
+
+Key topics of which are the Heap Sort and Graph Isomorphism Problem and general graph theory.
 
 In Heap Sort notebook I investigate the Heap Sort algorithm for sorting lists, the creation of a heap sort using the coding language python, and I look a bit into the complexity and graph theory behind heap sort
 
